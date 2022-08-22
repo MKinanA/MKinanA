@@ -1,4 +1,4 @@
-# ಠ_ʖಠ
+# (ಠ_ʖಠ)
 
 - 👋 Hi, I’m @MKinanA
 - 👀 I’m interested in ...
