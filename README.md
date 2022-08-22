@@ -6,6 +6,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<details> 
+	<summary></summary>
+	<br>
+	<ul>
+   <li>Never gonna give you up</li>
+   <li>Never gonna let you down</li>
+   <li>Never gonna run around and desert you</li>
+   <br>
+   <li>Never gonna make you cry</li>
+   <li>Never gonna say googdbye</li>
+   <li>Never gonna tell a lie and hurt you</li>
+	</ul>
+</details>
+
 <sub>(ಠ ͜ ʖಠ) ok</sub>
 
 <!---
